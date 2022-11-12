@@ -4,4 +4,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="profile_titles">profile</string>
     <string name="home_titles">home</string>
+    <string name="contemt_text_tab">This is Tab %1$d</string>
+    <string name="setting_titles">setting</string>
 </resources>

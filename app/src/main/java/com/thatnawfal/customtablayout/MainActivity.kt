@@ -9,10 +9,10 @@ import com.google.android.material.tabs.TabLayoutMediator
 class MainActivity : AppCompatActivity() {
 
     companion object {
-
         private val TAB_TITLES = intArrayOf(
             R.string.home_titles,
-            R.string.profile_titles
+            R.string.profile_titles,
+            R.string.setting_titles
         )
     }
     override fun onCreate(savedInstanceState: Bundle?) {
